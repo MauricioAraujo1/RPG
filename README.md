@@ -19,52 +19,35 @@ https://user-images.githubusercontent.com/106497974/231462000-eef0eed7-63c8-4286
 
 # 💻 Descrição do Projeto
 
-IgniteTeams é uma aplicação onde o usuário poderá criar turmas e organizar times de várias pessoas para jogar!
-
-## 🛠 Tecnologias
-
-As seguintes ferramentas foram usadas na construção do projeto:
-
-- [ ] [TypeScript]
-- [ ] [ReactJS]
-- [ ] [Styled Components]
-
+RPG é uma aplicação onde o usuário jogar ou até mesmo interagir com vários players em um mapa!
 ## 🚀 Como executar o projeto
 
 <h3>Pré-requisitos</h3>
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: expo-cli, node, e também você precisa instalar o npm.
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: node, e também você precisa instalar o npm.
 
 
 <span class="pl-c"><span class="pl-c">#</span> Clone este repositório</span>
 ```
-https://github.com/MauricioAraujo1/IgniteTeams.git
+https://github.com/MauricioAraujo1/RPG.git
 ```
 
-<h3>🧭 Rodando a aplicação mobile</h3>
+<h3>🧭 Rodando a aplicação web</h3>
 
 <span class="pl-c"><span class="pl-c">#</span> Acesse a pasta do projeto no terminal/cmd e execute os seguintes comandos:</span>
 
 ```
-cd IgniteTeams
+cd RPG
 npm install
 code .
 ```
 <span class="pl-c"><span class="pl-c">#</span>Depois de ter iniciado o projeto no vscode, apenas digite o comando no terminal:</span>
 
 ```
-expo start
+npm start
 ```
-
-<span class="pl-c"><span class="pl-c">#</span>Caso esteja no Android Studio, para abrir a aplicação no seu emulador, digite a tecla:</span>
-
-```
-"A"
-```
-
-<span class="pl-c"><span class="pl-c">#</span>Caso queira rodar no Smartphone Android, você pode scannear o QR Code ou acessar o link no Expo Go.</span>
 
 # 🤝 Suporte 
-Contribuições, questões e pedidos de recursos são bem-vindos!<br />Esteja à vontade para verificar [issues page](https://github.com/MauricioAraujo1/IgniteTeams/issues).
+Contribuições, questões e pedidos de recursos são bem-vindos!<br />Esteja à vontade para verificar [issues page](https://github.com/MauricioAraujo1/RPG/issues).
 
 # 👤 Autor
 **🕵 Maurício Araújo**
